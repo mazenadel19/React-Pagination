@@ -4,6 +4,6 @@
 
 - open terminal
 - git clone `https://github.com/mazenadel19/react-pagination.git`
-- `npm i`
 - cd react-pagination
+- `npm i`
 - `npm start` or `yarn start`
